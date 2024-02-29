@@ -1,0 +1,2 @@
+cout << "My name is :" << " Muhammad Waleed Zaman " << endl;
+cout << "Roll number" : << "23-st-001" << endl; 
