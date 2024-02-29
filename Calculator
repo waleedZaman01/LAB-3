@@ -1,2 +1,11 @@
 cout << "My name is :" << " Muhammad Waleed Zaman " << endl;
 cout << "Roll number" : << "23-st-001" << endl; 
+#includer<iostream>
+using namespace std;
+int main {
+cout << "Addition of two numbers is :" << "a+b" << endl;
+cout << "Difference of two numbers is :" << "a-b" << endl;
+cout << "Multiplication of two numbers is :" <<"a*b << endl;
+cout << "Division of two numbers is : " << "a/b" << endl;
+return0;
+}
